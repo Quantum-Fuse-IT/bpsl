@@ -1,0 +1,55 @@
+h2 {
+    text-align: center;
+    color: rgb(43, 255, 192);
+}
+
+.border {
+    border-color: whitesmoke;
+}
+
+h1 {
+    text-align: left;
+    font-family: cursive;
+}
+
+strong {
+    color: rgb(0, 6, 12);
+}
+
+u {
+    text-align: center;
+}
+
+.hf {
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+body {
+    background-color: rgb(8, 167, 159);
+    color: rgb(255, 255, 255);
+    font-family: Poppins Light;
+}
+
+.no-brain-btn {
+    background-color: aqua;
+    color: #999;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: bottom;
+}
+
+.jewelry-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.jewelry-item {
+    margin: 20px;
+    padding: 110px;
+    border: 50px outset #ddd;
+    border-radius: 60px;
+    width: 200px;
+}

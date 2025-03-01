@@ -1,0 +1,14 @@
+body {
+     color: rgba(255, 136, 0, 0.849);
+     background-color: rgb(0, 4, 211);
+     font-family: Poppins Light;
+}
+
+.border {
+     margin: 20px;
+     padding: 100px;
+     border: 50px inset #ddd;
+     border-radius: 50px;
+     width: 200px;
+     text-align: center;
+}

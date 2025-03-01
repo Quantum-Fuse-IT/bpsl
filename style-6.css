@@ -1,0 +1,14 @@
+
+
+    #body{background-color: bisque;
+          font-family: cursive;
+        font-style: normal;
+        font-weight: 100;}
+
+  .border{ margin: 20px;
+        padding: 90px;
+        border:120px ridge #001aff;
+        border-radius: 200px;
+        width: 100px;
+        border-left:20px;    
+        border-right:5px;}  
